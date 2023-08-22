@@ -5,5 +5,8 @@ class Solution:
         return True
       else:
         return False
-        
+     #  def reverse(string):
+     #    string = list(string)
+     #    string.reverse()
+     #    return "".join(string)
         
