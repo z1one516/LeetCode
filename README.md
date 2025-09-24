@@ -6,5 +6,6 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/z1one516/LeetCode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/z1one516/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [0595-big-countries](https://github.com/z1one516/LeetCode/tree/master/0595-big-countries) |
 | [1179-game-play-analysis-i](https://github.com/z1one516/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
