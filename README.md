@@ -20,4 +20,5 @@
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/z1one516/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1338-queries-quality-and-percentage](https://github.com/z1one516/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1908-recyclable-and-low-fat-products](https://github.com/z1one516/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/z1one516/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
