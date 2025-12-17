@@ -22,6 +22,7 @@
 | [1327-list-the-products-ordered-in-a-period](https://github.com/z1one516/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1338-queries-quality-and-percentage](https://github.com/z1one516/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1407-top-travellers](https://github.com/z1one516/LeetCode/tree/master/1407-top-travellers) |
+| [1484-group-sold-products-by-the-date](https://github.com/z1one516/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/z1one516/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1837-daily-leads-and-partners](https://github.com/z1one516/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/z1one516/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
